@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @libr123
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Karel
+- 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...robin.buehlmann.rb@gmail.com
 
